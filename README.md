@@ -34,3 +34,11 @@ Welcome to the Flappy Bird - Java Edition! This project is a clone of the popula
 - The game logic is executed using a game loop running at 60 frames per second.
 - A separate timer handles the generation of new pipes at regular intervals.
 - The game stops and displays "Game Over" when the bird collides with a pipe or the ground.
+
+### How to Play
+- Press the spacebar to make the bird fly upwards.
+- Avoid the pipes by flying through the gaps.
+- The game ends if the bird hits a pipe or falls to the ground.
+- The score increases as you successfully navigate through the pipes.
+
+**Enjoy the game! 😊**
