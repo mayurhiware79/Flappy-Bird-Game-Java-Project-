@@ -1,4 +1,4 @@
- Flappy-Bird-Game-Java-Project 🐤
+# Flappy-Bird-Game-Java-Project 🐤
 
 ## Introduction
 Welcome to the Flappy Bird - Java Edition! This project is a clone of the popular Flappy Bird game, developed entirely using Java. The game features a simple graphical user interface (GUI) created with Swing and provides an engaging experience where players control a bird trying to fly between columns of green pipes without hitting them.
